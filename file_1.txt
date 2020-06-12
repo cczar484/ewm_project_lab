@@ -1,3 +1,6 @@
+Beer
+Food
+Asleep
 Red Bull
 Coffee
 Water
